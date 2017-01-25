@@ -17,7 +17,7 @@ function ItunesController() {
         for (song of songList) {
             template +=
                 `<div class="row">
-                    <div class="col-xs-8 col-md-8">
+                    <div class="col-xs-12 col-md-12">
                             <div class="media">
                                 <div class="media-left media-middle">
                                     <a href="#">
